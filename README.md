@@ -2,9 +2,9 @@
 
 # 🐍 Snake Game
 
-[**🌐 View Live Demo**](https://amr-elshabrawy-dev.github.io/snake-game/) | [**📦 GitHub Repo**](https://github.com/Amr-Elshabrawy-Dev/snake-game)
+[**🌐 View Live Demo**](https://amrelshabrawydev.github.io/snake-game/) | [**📦 GitHub Repo**](https://github.com/AmrElshabrawyDev/snake-game)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Amr-Elshabrawy-Dev/snake-game?style=social&logo=github) ![GitHub stars](https://img.shields.io/github/stars/Amr-Elshabrawy-Dev/snake-game?style=social) ![GitHub forks](https://img.shields.io/github/forks/Amr-Elshabrawy-Dev/snake-game?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/AmrElshabrawyDev/snake-game?style=social&logo=github) ![GitHub stars](https://img.shields.io/github/stars/AmrElshabrawyDev/snake-game?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmrElshabrawyDev/snake-game?style=social)
 
 A modern implementation of the classic Snake game using vanilla JavaScript with a focus on code quality and maintainability.
 
@@ -118,7 +118,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Amr-Elshabrawy-Dev) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201202546653?text=Hi%20Amr!%20I%20saw%20your%20portfolio%20and%20would%20love%20to%20discuss%20a%20potential%20collaboration) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amr-Elshabrawy-Dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white)](https://www.linkedin.com/in/amr-elshabrawy-dev) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amrelshabrawy.dev@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/@AmrElshabr43803)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amrelshabrawydev.github.io) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201202546653?text=Hi%20Amr!%20I%20saw%20your%20portfolio%20and%20would%20love%20to%20discuss%20a%20potential%20collaboration) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmrElshabrawyDev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white)](https://www.linkedin.com/in/amr-elshabrawy-dev) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amrelshabrawy.dev@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/@AmrElshabr43803)
 
 </div>
 
